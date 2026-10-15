@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Emile-Marie.github.io/al-folio/sitemap.xml
+Sitemap: https://emile-marie.github.io/sitemap.xml
