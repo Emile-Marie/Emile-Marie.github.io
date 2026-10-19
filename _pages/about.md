@@ -6,7 +6,7 @@ subtitle: Affiliations <a href='https://cerfacs.fr/en/home/'>CERFACS.</a>.  Toul
 
 profile:
   align: right
-  image: assets/img/personal/Photo_main.jpg
+  image: personal/Photo_main.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
