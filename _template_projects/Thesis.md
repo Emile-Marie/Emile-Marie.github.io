@@ -2,7 +2,7 @@
 layout: page
 title: PhD project
 description: with background image
-img: assets/img/personal/illustation_thesis.png
+img: personal/illustation_thesis.png
 importance: 2
 category: work
 related_publications: true
@@ -18,7 +18,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: PhD project
     description: a project with a background image
-    img: assets/img/personal/illustation_thesis.png
+    img: personal/illustation_thesis.png
     ---
 
 <div class="row">
