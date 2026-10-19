@@ -30,9 +30,9 @@ I hold a **Franco-Canadian dual degree**, having graduated from **ENSEIRB-MATMEC
 
 Currently in the final year of my PhD, my research primarily focuses on **Computational Fluid Dynamics (CFD)** applied to reactive flows, with a particular emphasis on turbulent combustion. My doctoral research aims to develop a model suitable for simulating **hydrogen-air diffusion flames in turbulent environments**. To achieve this objective, I have conducted an extensive investigation into the physical characteristics of these flames, seeking to improve our understanding of the underlying phenomena and establish a solid foundation for their modeling.
 
-The objectives, methodology, and main findings of this research are presented in greater detail in the section dedicated to **[my PhD thesis](LINK_TO_THESIS)**.
+The objectives, methodology, and main findings of this research are presented in greater detail in the section dedicated to **[my PhD thesis](https://emile-marie.github.io/projects/1_project)**.
 
-This work has also led to the preparation of a **scientific paper for the journal *Combustion and Flame***, which can be found **[here](LINK_TO_ARTICLE)**.
+This work has also led to the preparation of a **scientific paper for the journal *Combustion and Flame***, which can be found **[here](https://emile-marie.github.io/projects/2_project)**.
 
 As I approach the completion of my PhD, I aim to continue my career in scientific research, further developing my expertise in **combustion, computational fluid dynamics, and reactive flow modeling**. With this goal in mind, I am currently **seeking a postdoctoral research position** where I can apply my knowledge and experience while exploring new scientific challenges.
 
