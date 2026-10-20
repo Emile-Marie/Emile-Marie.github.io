@@ -16,17 +16,17 @@ profile:
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+# announcements:
+#   enabled: true # includes a list of news items
+#   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+#   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+# latest_posts:
+#   enabled: true
+#   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+#   limit: 3 # leave blank to include all the blog posts
 ---
-I hold a **Franco-Canadian dual degree**, having graduated from **ENSEIRB-MATMECA** with an engineering degree specializing in applied mathematics, mechanics, and numerical simulation, and from **École de technologie supérieure (ÉTS) in Montreal** with a research-oriented Master's degree in Aerospace Engineering. Following this academic training, I decided to pursue a **PhD in Energy Engineering**, which I began in late 2022.
+I hold a **Franco-Canadian dual degree**, having graduated from **ENSEIRB-MATMECA** with an engineering degree specializing in applied mathematics, mechanics, and numerical simulation, and from **École de technologie supérieure (ÉTS) in Montreal** with a research-oriented Master's degree in Aerospace Engineering. Following this academic training, I decided to pursue a **PhD in Energy Engineering**, which I began in 2023.
 
 Currently in the final year of my PhD, my research primarily focuses on **Computational Fluid Dynamics (CFD)** applied to reactive flows, with a particular emphasis on turbulent combustion. My doctoral research aims to develop a model suitable for simulating **hydrogen-air diffusion flames in turbulent environments**. To achieve this objective, I have conducted an extensive investigation into the physical characteristics of these flames, seeking to improve our understanding of the underlying phenomena and establish a solid foundation for their modeling.
 
