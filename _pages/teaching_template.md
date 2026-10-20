@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
+permalink: /teaching_template/
+title: teaching_template
 description: Course materials, schedules, and resources for classes taught.
 nav: false
-nav_order: 6
+nav_order: 9
 calendar: false
 ---
 
