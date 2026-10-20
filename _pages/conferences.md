@@ -9,12 +9,12 @@ nav_order: 5
 
 ## Oral Presentations
 
-### [Interaction Between Non-Premixed H2-Air Flames and Vortices, First milestone for a non-premixed combustion model ]
+### Interaction Between Non-Premixed H2-Air Flames and Vortices, First milestone for a non-premixed combustion model
 
-**Conference:** [INCA]  
-**Location:** [Marseille, France]  
-**Date:** [10/2024]  
-**Authors:** [E-M. Berthoumieu, N. Bertier, T. Poinsot]
+**Conference:** INCA  
+**Location:** Marseille, France  
+**Date:** 10/2024  
+**Authors:** E-M. Berthoumieu, N. Bertier, T. Poinsot
 
 <!-- [Slides (PDF)](/assets/pdf/conferences/presentation.pdf) -->
 
@@ -22,11 +22,11 @@ nav_order: 5
 
 ## Poster Presentations
 
-### [Resolution criteria and thickening model for Large Eddy Simulations of non-premixed H2-Air flames]
+### Resolution criteria and thickening model for Large Eddy Simulations of non-premixed H2-Air flames
 
-**Conference:** [12th European Combustion Meeting]  
-**Location:** [Edinburgh, Scotland, UK]  
-**Date:** [April 2025]
+**Conference:** 12th European Combustion Meeting  
+**Location:** Edinburgh, Scotland, UK  
+**Date:** April 2025
 
 <!-- [Poster (PDF)](/assets/pdf/conferences/poster.pdf) -->
 
