@@ -8,8 +8,6 @@ nav_order: 6
 calendar: true
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+Although I have not had the opportunity to gain teaching experience during my PhD, teaching is an aspect of academic life that I am particularly interested in developing. I would welcome the opportunity to become involved in teaching activities during a future postdoctoral position, especially in the fields of **numerical simulation, applied mathematics, and fluids mechanics**.
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
-
-{% include courses.liquid %}
+I would be particularly interested in sharing my knowledge and research experience with students while further developing my teaching and communication skills.
