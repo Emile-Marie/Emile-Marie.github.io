@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 decription : Teaching interests in numerical simulation, applied mathematics, and fluid mechanics.
 # description: Course materials, schedules, and resources for classes taught.
 nav: true
