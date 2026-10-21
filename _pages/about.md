@@ -1,5 +1,5 @@
 ---
-layout: About
+layout: about
 title: About
 permalink: /
 subtitle: Affiliations <a href='https://cerfacs.fr/en/home/'>CERFACS.</a>.  Toulouse. France.
