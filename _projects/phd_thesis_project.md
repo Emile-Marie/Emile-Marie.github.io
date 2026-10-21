@@ -20,10 +20,19 @@ AL-FOLIO PROJECT PAGE — EDITING NOTES
 
 My PhD research focuses on **Computational Fluid Dynamics (CFD) applied to reactive flows**, with particular emphasis on the **modeling of turbulent hydrogen–air diffusion flames**. The project combines a detailed physical characterization of these flames with the development and assessment of a numerical modeling approach.
 
-**Institution:** [MEGEP / CERFACS]  
-**Period:** 2022 – 2026 
-**Supervisors:** Poinsot Thierry - Bertier Nicolase
+<!-- **Laboratory:** <a href='https://cerfacs.fr/en/home/'>CERFACS.</a>
+**Institution:** MEGEP 
+**Period:** 2023 – 2026 
+**Supervisors:** Poinsot Thierry - Bertier Nicolas
+**Thesis title:** Theoretical analysis of diffusion flames and development of a Large Eddy Simulation model for turbulent hydrogen diffusion flames -->
+
+
+**Laboratory:** [CERFACS](https://cerfacs.fr/en/home/)  
+**Institution:** MEGeP  
+**Period:** 2023 – 2026  
+**Supervisors:** Thierry Poinsot – Nicolas Bertier  
 **Thesis title:** Theoretical analysis of diffusion flames and development of a Large Eddy Simulation model for turbulent hydrogen diffusion flames
+
 
 ## Scientific context and motivation
 
