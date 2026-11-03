@@ -108,7 +108,7 @@ Systematic comparisons between CANTERA and AVBP, together with mesh-refinement s
 
 ## Resources
 
-- [PhD Thesis — Full Manuscript (PDF)](/assets/pdf/Thesis_Berthoumieu.pdf)
+- [PhD Thesis — Full Manuscript (PDF)](/assets/pdf/these_perso.pdf)
 - [Related publications](https://emile-marie.github.io/publications/)
 - [Research laboratory — CERFACS](https://cerfacs.fr/en/home/)
 
