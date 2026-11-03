@@ -53,14 +53,21 @@ Together, these objectives aim to establish a stronger physical and numerical fo
 
 ## Methodology
 
-### Physical characterization
-
-[DESCRIBE THE FLAME CONFIGURATIONS, PARAMETERS INVESTIGATED, AND PHYSICAL DIAGNOSTICS.]
-
 ### Numerical framework
 
-[DESCRIBE THE CFD METHODS, COMBUSTION MODELING FRAMEWORK, NUMERICAL TOOLS, AND VALIDATION STRATEGY.]
+Numerical framework
 
+The methodology combines analytical developments, detailed chemical kinetics, and Computational Fluid Dynamics (CFD) using two complementary numerical tools:
+
+CANTERA: Used to compute one-dimensional strained diffusion flames, investigate their physical properties, and provide reference solutions for the development and validation of analytical models.
+
+AVBP: A massively parallel, compressible CFD solver developed at CERFACS, used to investigate multidimensional reacting flows, assess spatial resolution requirements, and develop the LES combustion model.
+
+The numerical strategy progressively increases in complexity, from steady laminar counterflow flames to unsteady flame–vortex interactions and turbulent diffusion flames.
+
+Systematic comparisons between CANTERA and AVBP, together with mesh-refinement studies and comparisons between Direct Numerical Simulation (DNS) and Large Eddy Simulation (LES), are used to assess numerical accuracy and model performance. (Chapters 2–5)
+
+{% comment %}
 ### Model development and evaluation
 
 [EXPLAIN THE PROPOSED MODEL, ITS ASSUMPTIONS, HOW IT WAS EVALUATED, AND THE REFERENCE CASES.]
@@ -69,7 +76,7 @@ Together, these objectives aim to establish a stronger physical and numerical fo
 
 [SUMMARIZE 2–4 MAJOR FINDINGS. QUANTIFY RESULTS WHERE POSSIBLE AND DISTINGUISH PHYSICAL FINDINGS FROM MODEL PERFORMANCE.]
 
-{% comment %}
+
  Optional figure: uncomment after uploading assets/img/thesis_result_1.png.
 <div class="row justify-content-sm-center">
   <div class="col-sm-10 mt-3 mt-md-0">
@@ -79,7 +86,7 @@ Together, these objectives aim to establish a stronger physical and numerical fo
 <div class="caption">
   [FIGURE 1 CAPTION: physical quantity, configuration, and key interpretation.]
 </div>
-{% endcomment %}
+
 
 ## Scientific contributions
 
@@ -87,12 +94,13 @@ Together, these objectives aim to establish a stronger physical and numerical fo
 - **Modeling:** [MAIN ORIGINAL MODELING CONTRIBUTION.]
 - **Numerical assessment:** [KEY VALIDATION OR COMPARISON RESULT.]
 
+
 ## Publications and communications
 
 - **Journal article:** [FULL CITATION AND PUBLICATION STATUS], *Combustion and Flame*. [DOI / LINK]
 - **Conference contributions:** [CONFERENCE NAME, YEAR, TITLE, ORAL/POSTER].
 - **PhD thesis:** Not available yet, you can ask me the current version by mail.
-
+{% endcomment %}
 <!-- If your bibliography is configured, cite an entry with:
      {% cite YOUR_BIBTEX_KEY %}
      and maintain the matching entry in _bibliography/papers.bib.
@@ -100,8 +108,8 @@ Together, these objectives aim to establish a stronger physical and numerical fo
 
 ## Resources
 
-- [Thesis manuscript](THESIS_URL)
-- [Related publication](PUBLICATION_URL)
-- [Research laboratory](LAB_URL)
+- [Thesis manuscript (available upon request)](mailto:berthoumieu@cerfacs.fr?subject=PhD%20Thesis%20Manuscript%20Request)
+- [Related publications](https://emile-marie.github.io/publications/)
+- [Research laboratory — CERFACS](https://cerfacs.fr/en/home/)
 
 <!-- Delete links that are not yet available. -->
